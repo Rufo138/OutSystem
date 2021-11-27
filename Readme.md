@@ -1,1 +1,1 @@
-https://personal-jsjrdbhw.outsystemscloud.com/HelloWorldReactiveWebApp/Calculator
+https://personal-jsjrdbhw.outsystemscloud.com/ReactiveWebApp/Calculator
